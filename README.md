@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## Hey! 👋
+# Hey! 👋
 I'm Will, a 18 years old web developer from Colombia.
 
 ## Skills
