@@ -49,9 +49,6 @@ I'm Will, a 18 years old web developer from Colombia.
 
 ## Socials
 
-<a href="https://www.codepen.io/iswilljr" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" />
-</a>
 <a href="https://codesandbox.io/u/iswilljr" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" width="32" height="32" />
 </a>
