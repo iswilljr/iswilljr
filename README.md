@@ -5,8 +5,8 @@ I'm Will, a 18 years old web developer from Colombia.
 - 🌍  I'm based in Colombia
 - ✉️  You can contact me at [iswillr@gmail.com](mailto:iswillr@gmail.com) or on one of [My Socials](#socials)
 - 🧠  Currently learning [Svelte Kit](https://kit.svelte.dev)
-<!-- - 🚀  I'm currently working on [nothing](https://no.thing) -->
-<!-- - 🖥️  See my portfolio at [my page](https://iswilljr.dev) -->
+  <!-- - 🚀  I'm currently working on [nothing](https://no.thing) -->
+  <!-- - 🖥️  See my portfolio at [my page](https://iswilljr.dev) -->
 
 ## Skills
 
@@ -52,11 +52,13 @@ I'm Will, a 18 years old web developer from Colombia.
 <a href="https://codesandbox.io/u/iswilljr" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" width="32" height="32" />
 </a>
+<a href="https://stackblitz.com/@iswilljr" target="_blank" rel="noreferrer">
+  <img src="https://c.staticblitz.com/assets/favicon-editor-675989317f34707a17fe9d649da3609d70f6f8abc9546445389238ddd570a1d4.png" width="32" height="32" />
+</a>
 <a href="https://www.github.com/iswilljr" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
 </a>
 <a href="https://www.stackoverflow.com/users/18870886/iswilljr" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
 </a>
 <a href="https://www.twitter.com/iswilljr" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
